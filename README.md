@@ -20,7 +20,7 @@ Je suis un **économiste du développement** et **analyste de données junior** 
 
 ###  Publications & Projets récents
 * **Recherche sur les PME à Goma :** Analyse microéconomique des décisions d'investissement en contexte de conflit armé (Article soumis au Centre de Recherche Interdisciplinaire du Graben-[CRIG](https://www.crigpug-ucg.org/index.php/pirig/article/view/365).
-**[FSEC Data Pipeline (100% R)](https://github.com/Mwenza/fsec-data-pipeline) :** Pipeline modulaire de bout en bout pour le traitement, le contrôle qualité (DQA) et le calcul d'indicateurs de sécurité alimentaire (FCS, rCSI, HDDS).
+* **[FSEC Data Pipeline (100% R)](https://github.com/Mwenza/fsec-data-pipeline) :** Pipeline modulaire de bout en bout pour le traitement, le contrôle qualité (DQA) et le calcul d'indicateurs de sécurité alimentaire (FCS, rCSI, HDDS).
 * **Formations & Certifications :** 
   * IBM Data Analyst (R & Python)
   * Suivi & Évaluation de projets (AFD / Disaster Ready)
